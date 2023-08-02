@@ -1,5 +1,4 @@
 # Gerador de Senha
-
 Este é um programa simples em Python que gera senhas aleatórias e exibe-as em uma interface gráfica usando a biblioteca Tkinter.
 
 # Requisitos
